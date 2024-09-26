@@ -9,4 +9,5 @@ A simple AI based chatBot for quick access to information and data scarpping fea
 [recording sample.webm](https://github.com/user-attachments/assets/1deef7ef-f74f-4966-9c1c-bcb9733c5b6d)
 
 A simple screen recorder to instantly record screen instead of using heavy recording application
-(Annotation toolbar and generating video explainantion scripts with help of AI and few other features are yet be improvised)
+
+##(Annotation toolbar and generating video explainantion scripts with help of AI and few other features are yet be improvised)
