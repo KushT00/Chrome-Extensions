@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Pixy",
+    "description": "Record screen and download it to your device.",
+    "version": "1.0",
+    "permissions": [
+      "desktopCapture",
+      "storage",
+      "tabs",
+      "windows" 
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  
