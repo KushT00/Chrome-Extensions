@@ -10,4 +10,4 @@ A simple AI based chatBot for quick access to information and data scarpping fea
 
 A simple screen recorder to instantly record screen instead of using heavy recording application
 
-##(Annotation toolbar and generating video explainantion scripts with help of AI and few other features are yet be improvised)
+## (Annotation toolbar and generating video explainantion scripts with help of AI and few other features are yet be improvised)
