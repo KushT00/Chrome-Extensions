@@ -11,3 +11,11 @@ A simple AI based chatBot for quick access to information and data scarpping fea
 A simple screen recorder to instantly record screen instead of using heavy recording application
 
 ## (Annotation toolbar and generating video explainantion scripts with help of AI and few other features are yet be improvised)
+
+# 3. Kanban Board
+
+
+https://github.com/user-attachments/assets/708c0af2-8215-4598-91a1-123945272c5d
+
+
+A simple Kanban Chrome extension designed to help you arrange your daily tasks efficiently. You can add, delete, and move tasks between different columns, making it easier to manage your workflow.
