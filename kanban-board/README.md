@@ -6,6 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is a Kanban Chrome extension designed to help you arrange your daily tasks efficiently. You can add, delete, and move tasks between different columns, making it easier to manage your workflow.
 
+
+
+https://github.com/user-attachments/assets/eae4fef8-715a-42e8-9760-a7be910be223
+
+
 ## Available Scripts
 
 In the project directory, you can run:
